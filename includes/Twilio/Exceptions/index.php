@@ -1,0 +1,1 @@
+<p align="center"><b>SMS Manager 5.2.0</b></p>

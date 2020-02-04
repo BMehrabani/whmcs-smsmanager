@@ -1,4 +1,7 @@
 # whmcs-smsmanager
+
+Download link: https://github.com/Jisort/whmcs-smsmanager/archive/master.zip
+
 Installation instructions:
 
 1. Extract the contents of the jisortwhmcs zip file in /modules/addons directory
